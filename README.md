@@ -8,7 +8,7 @@ alcanzar la certificación de Laravel 👨‍🎓, la cual es proporcionada por 
 Me satisface sobremanera efectuar mi trabajo de la mejor manera posible, aplicar principios y arquitecturas de desarrollo 
 avanzadas. 🚀
 
-+ Principios SOLID 🧹
++ Principios SOLID, Patrones GRAP 🧹
 + Test Drive Development 🤖
 + Refactoring. 📦
 + Microservicios, API REST, MVC, POO.🏗
@@ -69,6 +69,16 @@ acción de cualquier buen autor. 📖
 ![PHP](https://img.shields.io/badge/PHPUnit-white?style=for-the-badge&logo=php&logoColor=4b568c)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5e4fbe?style=for-the-badge&logo=Insomnia&logoColor=white)
 
+## 📈 Estadisticas personales
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Maxcrazy1&show_icons=true&hide_border=true&theme=radical" alt="Estadisticas Cristian Serrano">
+    <br />
+    <img src="https://github-profile-trophy.vercel.app/?username=Maxcrazy1&theme=radical&column=3&margin-w=80&margin-h=30" alt="Trofeos" />
+    <br />
+    <br />
+</div>
+
 
 ## Setup de desarrollo 💻
 ![Intel](https://img.shields.io/badge/Intel-Core%20I7%203th-blue?style=for-the-badge&logo=Intel)
@@ -77,8 +87,11 @@ acción de cualquier buen autor. 📖
 ![Vim](https://img.shields.io/badge/Neovim-967eb5?style=for-the-badge&logo=neovim&logoColor=282a36)
 
 
+
 ## Mis redes sociales 👥
 
-![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/maxcode/)
-![Portafolio](https://img.shields.io/badge/Portafolio-333544?style=for-the-badge&logo=Firefox&link=https://www.linkedin.com/in/maxcode/)
-![Workana](https://img.shields.io/badge/Workana-white?style=for-the-badge&logo=Freelancer)
+[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&link=)](https://www.linkedin.com/in/maxcode/)
+[![Portafolio](https://img.shields.io/badge/Portafolio-333544?style=for-the-badge&logo=Firefox)](https://maxcode.netlify.app/)
+[![Workana](https://img.shields.io/badge/Workana-white?style=for-the-badge&logo=Freelancer)](https://maxcode.netlify.app/)
+
+***“La motivación te ayuda pero la disciplina te mantiene creciendo”.** John C. Maxwell*
