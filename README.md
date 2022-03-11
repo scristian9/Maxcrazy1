@@ -8,7 +8,7 @@ alcanzar la certificación de Laravel 👨‍🎓, la cual es proporcionada por 
 Me satisface sobremanera efectuar mi trabajo de la mejor manera posible, aplicar principios y arquitecturas de desarrollo 
 avanzadas. 🚀
 
-+ Principios SOLID, Patrones GRAP 🧹
++ Principios SOLID 🧹
 + Test Drive Development 🤖
 + Refactoring. 📦
 + Microservicios, API REST, MVC, POO.🏗
